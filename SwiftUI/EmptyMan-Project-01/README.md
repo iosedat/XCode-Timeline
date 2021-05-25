@@ -2,4 +2,4 @@
 
 Project Number - 01
 
-As my first Project i added just a Text.
+As my first Project i just added a Text.
